@@ -1,0 +1,22 @@
+header h1 {
+    text-align: center;
+    font-size: 20px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: #b0f2b6;
+    background-color: #b0f2b6;
+}
+
+h1 {
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+html {
+    background-color:#fdfee2 ;
+}

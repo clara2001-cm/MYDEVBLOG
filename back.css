@@ -1,0 +1,23 @@
+header {
+    text-align: center;
+    font-size: 15px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: #b0f2b6;
+    background-color: #b0f2b6;
+}
+
+html {
+    background-color: #fdfee2;
+}
+
+ul {
+    background-color: lightgreen;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 15px 17px;
+    float: left;
+    text-align: left;
+    
+}
